@@ -1,0 +1,13 @@
+
+####################################
+# sourcedata/
+
+ABIDE (http://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html) data from the Stanford site, downloaded from http://fcon_1000.projects.nitrc.org/indi/s3/index.html (/fcp-indi/data/Projects/ABIDE/RawDataBIDS).
+
+
+####################################
+# derivates/mriqc_0.10.4_precomputed
+
+Data was processed with mriqc (http://mriqc.readthedocs.io/en/latest/)
+
+docker run -v /data/in:/data/in:ro -v /data/out:/data/out poldracklab/mriqc:0.10.4 /data/in /data/out participant --n_procs 4 --mem_gb 16 

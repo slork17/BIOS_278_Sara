@@ -1,0 +1,18 @@
+{
+    "Name": "",
+    "BIDSVersion": "v1.8.0",
+    "License": "",
+    "Authors": [
+        ""
+    ],
+    "Acknowledgments": "ABIDE (http://fcon_1000.projects.nitrc.org/indi/abide/abide_I.html) data from the Stanford site, downloaded from http://fcon_1000.projects.nitrc.org/indi/s3/index.html (/fcp-indi/data/Projects/ABIDE/RawDataBIDS).",
+    "HowToAcknowledge": "",
+    "Funding": [
+        ""
+    ],
+    "ReferencesAndLinks": [
+        ""
+    ],
+    "DatasetDOI": ""
+}
+
